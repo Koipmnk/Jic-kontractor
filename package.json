@@ -1,0 +1,15 @@
+{
+  "name": "jic-kontractor",
+  "version": "1.0.0",
+  "description": "JIC KONTRACTOR - Manajemen Keuangan Konstruksi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "mongoose": "^8.0.0"
+  }
+}
